@@ -29,7 +29,7 @@
         </p>
         <div>
           <button
-            href="#"
+            type="button"
             class="text-base border border-almBlack bg-almBlack font-bold text-almWhite px-7 hover:duration-500 hover:ease-in-out hover:bg-almWhite hover:text-almBlack py-4 mb-16 lg:mb-28 2xl:mb-36 rounded-xl"
           >
             {{ buttonText }}
